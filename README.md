@@ -4,7 +4,7 @@
 
 - Bu ufak çaplı projede kullanıcının resim text ve ikonun animasyonlu olarak kullanımına örnek gösterilmiştir.
 
-![Uploading animation_image_Moment2.jpg…]
-![Uploading animation_image_Moment.jpg…]()
-![animation_image_Moment3](https://user-images.githubusercontent.com/100489350/235328728-4d2a2b26-7d4e-4985-ad6e-d8836a460214.jpg)
-()
+ 
+![animation_image_Moment](https://user-images.githubusercontent.com/100489350/235328759-cb94c798-7564-47e0-ae84-dbf77cb91573.jpg)
+![Uploading animation_image_Moment2.jpg…]()
+![Uploading animation_image_Moment3.jpg…]()
