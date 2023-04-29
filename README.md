@@ -1,16 +1,10 @@
-# example_prpject
+# Animation Image And Text Project
 
-A new Flutter project.
+- In this small-scale project, an example of the user's use of picture text and icon as animated is shown.
 
-## Getting Started
+- Bu ufak çaplı projede kullanıcının resim text ve ikonun animasyonlu olarak kullanımına örnek gösterilmiştir.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading animation_image_Moment2.jpg…]
+![Uploading animation_image_Moment.jpg…]()
+![animation_image_Moment3](https://user-images.githubusercontent.com/100489350/235328728-4d2a2b26-7d4e-4985-ad6e-d8836a460214.jpg)
+()
