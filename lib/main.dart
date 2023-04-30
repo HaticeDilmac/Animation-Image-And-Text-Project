@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
 }
 
 class AnimatedWidget extends StatefulWidget {
-  AnimatedWidget({super.key});
+  const AnimatedWidget({super.key});
 
   @override
   State<AnimatedWidget> createState() => _AnimatedWidgetState();
@@ -137,7 +137,7 @@ class _AnimatedWidgetState extends State<AnimatedWidget>
 
 //Animated Font State
 class AnimatedFontState extends StatefulWidget {
-  AnimatedFontState({super.key});
+  const AnimatedFontState({super.key});
 
   @override
   State<AnimatedFontState> createState() => _AnimatedFontStateState();
